@@ -1,0 +1,8 @@
+CountVecotorizer + randomforest() : 0.781
+
+Lematización + stopwords + 
+CountVecotorizer + randomforest() = 0.792
+
+Lematización + stopwords + TF-IDF + 
+randomforest() = 0.793
+
